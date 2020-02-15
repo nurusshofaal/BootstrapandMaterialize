@@ -2,14 +2,14 @@
 
 ## Learn Template With Bootstrap and Materialize
 ```
-Berrrrrrrrrrrrrrrrrrrraaaaaaaaaa
+check it do --------Berrrrrrrrrrrrrrrrrrrraaaaaaaaaa-------------------------
 ```
 
 Adapun App latihan yang dibikin meliputi :
 
 <div>
   
-| ### Project                    | ### Repo                                                                  | ### Preview                                                                                                                        | ### Status |
+| Project                    | Repo                                                                  | Preview                                                                                                                        | Status |
 |:--------------------------:|:---------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------:|:------:|
 | Portfolio With Bootstrap   |     [Repository]                                                      | ![Screenshoot] | Inprogress     |
 
